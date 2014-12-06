@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TugasWTC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pempek_cakra">Pempek Cakra</string>
+    <string name="title_activity_reborn">Reborn</string>
+    <string name="title_activity_kaget">Kaget Activity</string>
+
+</resources>
